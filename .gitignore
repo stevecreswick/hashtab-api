@@ -1,2 +1,8 @@
 .serverless
+.dynamodb
+.migrations
+.seed
+
 node_modules
+
+dist
